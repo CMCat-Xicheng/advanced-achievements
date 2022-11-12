@@ -24,7 +24,7 @@
 
 ## :earth_americas: Useful links
 
-* [Spigot](https://www.spigotmc.org/resources/advanced-achievements.83466), homepage of the plugin.
+* [Spigot](https://www.spigotmc.org/resources/advanced-achievements.83466), homepage of the plugin.s
 
 * [Wiki](https://github.com/PyvesB/advanced-achievements/wiki), a lot of valuable information on how to set the plugin up and use it properly.
 
